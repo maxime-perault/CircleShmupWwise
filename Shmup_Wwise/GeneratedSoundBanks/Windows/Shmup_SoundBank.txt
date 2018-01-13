@@ -1,0 +1,19 @@
+Event	ID	Name			Wwise Object Path	Notes
+	202194903	Music_Play			\Default Work Unit\Music_Play	
+	1306613731	aTable_Play			\Default Work Unit\aTable_Play	
+	3227181061	Music_Stop			\Default Work Unit\Music_Stop	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	506891147	Plate_Small	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	293664093	Music	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2_1_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music		8467488
+	678648291	aTable	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2-atable_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\aTable		165516
+

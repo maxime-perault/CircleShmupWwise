@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\</ProjectRoot>
+		<SourceFilesRoot>D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2940616508" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Shmup_SoundBank</ObjectPath>
+			<ShortName>Shmup_SoundBank</ShortName>
+			<Path>Shmup_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
+				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music_Play"/>
+				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music_Stop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="293664093" Language="SFX">
+					<ShortName>Shmupv2_1.wav</ShortName>
+					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="678648291" Language="SFX">
+					<ShortName>Shmupv2-atable.wav</ShortName>
+					<Path>SFX\Shmupv2-atable_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
