@@ -22,10 +22,15 @@
 			<Path>Shmup_SoundBank.bnk</Path>
 			<IncludedEvents>
 				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
+				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\Main_Menu_UI_Play"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music_Play"/>
 				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music_Stop"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="258863870" Language="SFX">
+					<ShortName>Shmup_UI.wav</ShortName>
+					<Path>SFX\Shmup_UI_1C9C67B2.wem</Path>
+				</File>
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
 					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>

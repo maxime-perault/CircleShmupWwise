@@ -1,5 +1,6 @@
 Event	ID	Name			Wwise Object Path	Notes
 	202194903	Music_Play			\Default Work Unit\Music_Play	
+	329483606	Main_Menu_UI_Play			\Default Work Unit\Main_Menu_UI_Play	
 	1306613731	aTable_Play			\Default Work Unit\aTable_Play	
 	3227181061	Music_Stop			\Default Work Unit\Music_Stop	
 
@@ -14,6 +15,7 @@ Effect plug-ins	ID	Name	Type				Notes
 	506891147	Plate_Small	Wwise RoomVerb			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	258863870	Main_Menu_UI	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmup_UI_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Main_Menu_UI		31748
 	293664093	Music	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2_1_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music		8467488
 	678648291	aTable	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2-atable_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\aTable		165516
 
