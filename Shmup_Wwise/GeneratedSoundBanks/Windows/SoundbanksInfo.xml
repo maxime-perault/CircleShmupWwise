@@ -23,6 +23,8 @@
 			<IncludedEvents>
 				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\Main_Menu_UI_Play"/>
+				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music_Menu_Play"/>
+				<Event Id="3264661319" Name="Music_Menu_Stop" ObjectPath="\Events\Default Work Unit\Music_Menu_Stop"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music_Play"/>
 				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music_Stop"/>
 			</IncludedEvents>
@@ -34,6 +36,10 @@
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
 					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="676187997" Language="SFX">
+					<ShortName>Shmup musique Menu.wav</ShortName>
+					<Path>SFX\Shmup musique Menu_F17FB28C.wem</Path>
 				</File>
 				<File Id="678648291" Language="SFX">
 					<ShortName>Shmupv2-atable.wav</ShortName>

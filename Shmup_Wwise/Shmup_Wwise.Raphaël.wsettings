@@ -5,8 +5,10 @@
 			<PropertyList>
 				<Property Name="Event Action List\{83EA33E9-F433-4998-9573-D549C57C14BA}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{AECEA21B-34AE-47C3-AAC3-1D31A308DC8E}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{BCB6919E-DBA9-42EB-9A4B-F518350C902B}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{CDB0E6A6-B2A5-4564-9617-676B3F7409F2}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{DE529285-926E-4F11-AEF6-D9DAE419DB01}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{F6F9D311-4571-4B19-A287-66A378D871D8}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -47,14 +49,14 @@
 				<Property Name="ProjectExplorer\x64_Expanded_17_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_18_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="qeqUb3dIfUmG5JECu2mbYA=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="FvKMXWZc4Eay+3M2nStktWeZH7YLWyxOnwv/E1jO+b8="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="7EOUsm2oKk+1UdkTox9Gww=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="/7NMkho19EuHDqsISAjvqw=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
 				<Property Name="RTPC\GameParameterSimValue\{09E2B445-C4A3-447F-B3CA-818A1D925EF7}" Type="Real64" Value="6"/>

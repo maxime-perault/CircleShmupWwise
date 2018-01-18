@@ -75,6 +75,33 @@
 						</Sound>
 					</ChildrenList>
 				</Folder>
+				<Sound Name="Music_Menu" ID="{AC93679C-2157-432E-AA22-29A30AB964AF}" ShortID="131942549">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-4</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Shmup musique Menu" ID="{F245F002-3509-4217-9807-7EB7679C7425}" ShortID="676187997">
+							<Language>SFX</Language>
+							<AudioFile>Shmup musique Menu.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Shmup musique Menu" ID="{F245F002-3509-4217-9807-7EB7679C7425}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
