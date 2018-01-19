@@ -2,8 +2,6 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	504532776	Brick			\Factory Reflect Acoustic Textures\Textures\Brick	
 	513139656	Mountain			\Factory Reflect Acoustic Textures\Textures\Mountain	
 	841620460	Concrete			\Factory Reflect Acoustic Textures\Textures\Concrete	
-	1006694123	Music_Volume			\Default Work Unit\Music_Volume	
-	1564184899	SFX_Volume			\Default Work Unit\SFX_Volume	
 	1755085759	Wood_Deep			\Factory Reflect Acoustic Textures\Textures\Wood_Deep	
 	1873957695	Anechoic			\Factory Reflect Acoustic Textures\Textures\Anechoic	
 	1970351858	Fabric			\Factory Reflect Acoustic Textures\Textures\Fabric	
@@ -21,7 +19,7 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	348963605	Reverb			\Default Work Unit\Master Secondary Bus\Reverb	
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
 
 Effect plug-ins	ID	Name	Type				Notes
 	506891147	Plate_Small	Wwise RoomVerb			

@@ -4,78 +4,6 @@
 		<WorkUnit Name="Default Work Unit" ID="{6F94EAA9-4877-497D-86E4-9102BB699B60}" PersistMode="Standalone">
 			<ChildrenList>
 				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
-					<PropertyList>
-						<Property Name="BusVolume" Type="Real64">
-							<RTPCList>
-								<RTPC Name="" ID="{69CB0CC7-3E2B-4ED6-B705-45B3DA183F51}" ShortID="957402509">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="SFX_Volume" ID="{1890AB2A-3514-430B-BEFF-D8EA5B35F6C6}" WorkUnitID="{BD1B3C21-0013-423E-B3D9-94D432D5F7F0}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{E26A5853-9C24-403F-A8A4-75BA07A83FEE}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>50.052</XPos>
-												<YPos>-0.07768</YPos>
-												<Flags>0</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>4.30853</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
-						</Property>
-					</PropertyList>
-				</Bus>
-				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}">
-					<PropertyList>
-						<Property Name="BusVolume" Type="Real64">
-							<RTPCList>
-								<RTPC Name="" ID="{D0129D62-3218-42C4-AA0F-BBE11D96CA06}" ShortID="849258494">
-									<ReferenceList>
-										<Reference Name="ControlInput">
-											<ObjectRef Name="Music_Volume" ID="{1ADB9B9F-6AB4-4998-8FFC-2253D1104E3D}" WorkUnitID="{BD1B3C21-0013-423E-B3D9-94D432D5F7F0}"/>
-										</Reference>
-									</ReferenceList>
-									<Curve Name="" ID="{7FE9B261-46F0-4F89-B879-9A40AD3E5782}">
-										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="3"/>
-										</PropertyList>
-										<PointList>
-											<Point>
-												<XPos>0</XPos>
-												<YPos>-200</YPos>
-												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>49.94764</XPos>
-												<YPos>0.01974</YPos>
-												<Flags>0</Flags>
-											</Point>
-											<Point>
-												<XPos>100</XPos>
-												<YPos>4.46938</YPos>
-												<Flags>37</Flags>
-											</Point>
-										</PointList>
-									</Curve>
-								</RTPC>
-							</RTPCList>
-						</Property>
-					</PropertyList>
 					<ChildrenList>
 						<AuxBus Name="Reverb" ID="{DC7C72B0-8B79-4532-A6F6-46D5648DF906}">
 							<ReferenceList>
@@ -86,6 +14,7 @@
 						</AuxBus>
 					</ChildrenList>
 				</Bus>
+				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}"/>
 				<MotionBus Name="Master Motion Bus" ID="{20A630BA-3398-4676-B927-1004DFE41FD8}"/>
 			</ChildrenList>
 		</WorkUnit>
