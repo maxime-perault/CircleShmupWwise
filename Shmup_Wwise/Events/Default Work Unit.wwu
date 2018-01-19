@@ -125,6 +125,66 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Piment" ID="{5AE1C9ED-DA2C-45DE-A326-DD6B48DFE3B9}" ShortID="721456208">
+					<ChildrenList>
+						<Event Name="Piment_Prep_Play" ID="{16FE29F0-1DF0-41AB-B6DF-538D6CE8A8B2}">
+							<ChildrenList>
+								<Action Name="" ID="{80AD4058-0388-485A-B4BF-1006DF64B73C}" ShortID="531977264">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Piment_Prep" ID="{5475DB6C-2403-42BA-B653-30F4DAF7D90D}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Piment_Prep_Stop" ID="{E272CF51-9E41-4AF3-BAA6-616737D368E0}">
+							<ChildrenList>
+								<Action Name="" ID="{DC537E3F-001F-46C3-AB56-60944EFC543F}" ShortID="659714762">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Piment_Prep" ID="{5475DB6C-2403-42BA-B653-30F4DAF7D90D}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Piment_Charge" ID="{8363E337-8507-40D5-9C72-C1C2558A5F66}">
+							<ChildrenList>
+								<Action Name="" ID="{29A98D94-1F9C-4C03-8D96-0158B1E90B23}" ShortID="19968521">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Piment_Charge" ID="{06CD6DF0-F294-483E-A29F-155B31E2220A}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Piment_Cogne" ID="{1034A214-E2DE-448F-BB16-8FF4129E2A86}">
+							<ChildrenList>
+								<Action Name="" ID="{BC374B6C-6117-4505-9710-239DB88318B4}" ShortID="915936267">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Piment_Cogne" ID="{AD4E4471-ACBA-4021-873A-32A19A8ABDD9}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

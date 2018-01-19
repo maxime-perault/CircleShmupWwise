@@ -202,6 +202,67 @@
 						</Sound>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Piment" ID="{86D18BA5-B650-44DE-AFF1-A18AA4AE6258}" ShortID="59835155">
+					<ChildrenList>
+						<Sound Name="Piment_Charge" ID="{06CD6DF0-F294-483E-A29F-155B31E2220A}" ShortID="747147112">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Piment_Charge" ID="{F4C52D69-D46C-43C4-9CC9-DF49F0003270}" ShortID="24549672">
+									<Language>SFX</Language>
+									<AudioFile>Piment_Charge.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Piment_Charge" ID="{F4C52D69-D46C-43C4-9CC9-DF49F0003270}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Piment_Cogne" ID="{AD4E4471-ACBA-4021-873A-32A19A8ABDD9}" ShortID="505440713">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Piment_Cogne" ID="{51379C55-53F9-40F0-8DA4-6AC4CAF89DA0}" ShortID="930639951">
+									<Language>SFX</Language>
+									<AudioFile>Piment_Cogne.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Piment_Cogne" ID="{51379C55-53F9-40F0-8DA4-6AC4CAF89DA0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Piment_Prep" ID="{5475DB6C-2403-42BA-B653-30F4DAF7D90D}" ShortID="142460393">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Piment_prep" ID="{E1AFCD2C-5AFA-4EE5-A576-138FC14116D7}" ShortID="255192302">
+									<Language>SFX</Language>
+									<AudioFile>Piment_prep.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Piment_prep" ID="{E1AFCD2C-5AFA-4EE5-A576-138FC14116D7}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
