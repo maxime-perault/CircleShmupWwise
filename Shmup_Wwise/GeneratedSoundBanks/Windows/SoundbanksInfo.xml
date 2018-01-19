@@ -24,15 +24,16 @@
 				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
+				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\Main_Menu_UI_Play"/>
 				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Play"/>
 				<Event Id="3264661319" Name="Music_Menu_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Stop"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Play"/>
 				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Stop"/>
-				<Event Id="2914639251" Name="Piment_Charge" ObjectPath="\Events\Default Work Unit\Piment\Piment_Charge"/>
-				<Event Id="4134055255" Name="Piment_Cogne" ObjectPath="\Events\Default Work Unit\Piment\Piment_Cogne"/>
-				<Event Id="1649919439" Name="Piment_Prep_Play" ObjectPath="\Events\Default Work Unit\Piment\Piment_Prep_Play"/>
-				<Event Id="72582861" Name="Piment_Prep_Stop" ObjectPath="\Events\Default Work Unit\Piment\Piment_Prep_Stop"/>
+				<Event Id="2914639251" Name="Piment_Charge" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Charge"/>
+				<Event Id="4134055255" Name="Piment_Cogne" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Cogne"/>
+				<Event Id="1649919439" Name="Piment_Prep_Play" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Play"/>
+				<Event Id="72582861" Name="Piment_Prep_Stop" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Stop"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="24549672" Language="SFX">
@@ -42,6 +43,10 @@
 				<File Id="72504660" Language="SFX">
 					<ShortName>PetitBeurreMove1.wav</ShortName>
 					<Path>SFX\PetitBeurreMove1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="115765291" Language="SFX">
+					<ShortName>Ennemy_Pop.wav</ShortName>
+					<Path>SFX\Ennemy_Pop_1C9C67B2.wem</Path>
 				</File>
 				<File Id="255192302" Language="SFX">
 					<ShortName>Piment_prep.wav</ShortName>
