@@ -45,10 +45,6 @@
 					<ShortName>PetitBeurreMove1.wav</ShortName>
 					<Path>SFX\PetitBeurreMove1_1C9C67B2.wem</Path>
 				</File>
-				<File Id="115765291" Language="SFX">
-					<ShortName>Ennemy_Pop.wav</ShortName>
-					<Path>SFX\Ennemy_Pop_1C9C67B2.wem</Path>
-				</File>
 				<File Id="255192302" Language="SFX">
 					<ShortName>Piment_prep.wav</ShortName>
 					<Path>SFX\Piment_prep_1C9C67B2.wem</Path>
@@ -80,6 +76,10 @@
 				<File Id="930639951" Language="SFX">
 					<ShortName>Piment_Cogne.wav</ShortName>
 					<Path>SFX\Piment_Cogne_1C9C67B2.wem</Path>
+				</File>
+				<File Id="967738362" Language="SFX">
+					<ShortName>Ennemy_Pop_1.wav</ShortName>
+					<Path>SFX\Ennemy_Pop_1_1C9C67B2.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

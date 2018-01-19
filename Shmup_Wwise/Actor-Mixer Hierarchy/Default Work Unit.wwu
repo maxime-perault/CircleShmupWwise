@@ -292,8 +292,8 @@
 											<Modifier Name="" ID="{71184D7B-49A5-48E6-B4F7-3DC6203E39EA}">
 												<PropertyList>
 													<Property Name="Enabled" Type="bool" Value="True"/>
-													<Property Name="Max" Type="Real64" Value="60"/>
-													<Property Name="Min" Type="Real64" Value="-60"/>
+													<Property Name="Max" Type="Real64" Value="200"/>
+													<Property Name="Min" Type="Real64" Value="-200"/>
 												</PropertyList>
 											</Modifier>
 										</ModifierInfo>
@@ -309,13 +309,13 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="Ennemy_Pop" ID="{328216E9-F448-4253-9DA3-7778FF315601}" ShortID="115765291">
+								<AudioFileSource Name="Ennemy_Pop_1" ID="{2372B362-2CD8-4413-8117-FB3A3AE5DE60}" ShortID="967738362">
 									<Language>SFX</Language>
-									<AudioFile>Ennemy_Pop.wav</AudioFile>
+									<AudioFile>Ennemy_Pop_1.wav</AudioFile>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
-								<ActiveSource Name="Ennemy_Pop" ID="{328216E9-F448-4253-9DA3-7778FF315601}" Platform="Linked"/>
+								<ActiveSource Name="Ennemy_Pop_1" ID="{2372B362-2CD8-4413-8117-FB3A3AE5DE60}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>
