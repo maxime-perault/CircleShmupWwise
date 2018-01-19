@@ -210,6 +210,11 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="Shmup_UI" ID="{4647961F-D705-41E8-A7ED-F24CD79B9B6A}" ShortID="258863870">
+											<PropertyList>
+												<Property Name="FadeOutDuration" Type="Real64" Value="2.59236170352385E-02"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimEnd" Type="Real64" Value="0.173745842173954"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>Shmup_UI.wav</AudioFile>
 										</AudioFileSource>
@@ -236,6 +241,10 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="UI_Sound_Validate" ID="{1A2C8E4C-1D92-4B34-A409-3ED214F408FF}" ShortID="833735025">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="2.69157352115551E-03"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.41307609860664E-02"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>UI_Sound_Validate.wav</AudioFile>
 										</AudioFileSource>

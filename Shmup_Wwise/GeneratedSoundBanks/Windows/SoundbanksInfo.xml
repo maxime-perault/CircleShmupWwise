@@ -56,7 +56,7 @@
 				</File>
 				<File Id="258863870" Language="SFX">
 					<ShortName>Shmup_UI.wav</ShortName>
-					<Path>SFX\Shmup_UI_1C9C67B2.wem</Path>
+					<Path>SFX\Shmup_UI_CB15A543.wem</Path>
 				</File>
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
@@ -72,7 +72,7 @@
 				</File>
 				<File Id="833735025" Language="SFX">
 					<ShortName>UI_Sound_Validate.wav</ShortName>
-					<Path>SFX\UI_Sound_Validate_1C9C67B2.wem</Path>
+					<Path>SFX\UI_Sound_Validate_D2A210AB.wem</Path>
 				</File>
 				<File Id="834534856" Language="SFX">
 					<ShortName>PetitBeurreStop.wav</ShortName>
