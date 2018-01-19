@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="333755947" DateHigh="30642299"/>
+	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="102776999" DateHigh="30642489"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="3441117372" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="3441548543" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Attenuations\Default Work Unit.wwu" DateLow="968668656" DateHigh="30640280"/>
@@ -22,7 +22,7 @@
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="3499815217" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="3499820235" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="3320952635" DateHigh="30631843"/>
-	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Events\Default Work Unit.wwu" DateLow="333892481" DateHigh="30642299"/>
+	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Events\Default Work Unit.wwu" DateLow="2497121677" DateHigh="30642485"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="968247499" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="3441127401" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="968377841" DateHigh="30640280"/>
@@ -32,7 +32,7 @@
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Presets\Default Work Unit.wwu" DateLow="968307648" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Queries\Default Work Unit.wwu" DateLow="968077446" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Queries\Factory Queries.wwu" DateLow="3440876747" DateHigh="30631843"/>
-	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.Raphaël.wsettings" DateLow="3730905707" DateHigh="30642316"/>
+	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.Raphaël.wsettings" DateLow="2618410796" DateHigh="30642489"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.wproj" DateLow="967610020" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="2968577702" DateHigh="30641271"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="967967132" DateHigh="30640280"/>

@@ -34,7 +34,7 @@
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="kX2wIFJs1kupU+j7G3TFyg=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="gvJyAhziMkyDWdzxfKLk9Q=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
-				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Property Name="MeterView\LastObject1" Type="string" Value="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="Mixing Desk\LastSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MonitoringManager\WatchMgr\WatchesVersion" Type="int32" Value="6"/>
@@ -60,8 +60,8 @@
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="qeqUb3dIfUmG5JECu2mbYA=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="FvKMXWZc4Eay+3M2nStktZDGHkMNB09Hv6htamxXZW8="/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="xM6MAWRoZUWjf7kvpNk9/uBIY3PdzFpJkAcU78FqUkTsQ5SybagqT7VR2ROjH0bD"/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="rUTNeBiccEKWDGP8y/UljhbyjF1mXOBGsvtzNp0rZLWQxh5DDQdPR7+obWpsV2VvZ5kftgtbLE6fC/8TWM75vw=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="h/T73n6D1keDdDbd3wmIS/0easK+igRJvgPMFdYtH2/sQ5SybagqT7VR2ROjH0bD"/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="/7NMkho19EuHDqsISAjvqw=="/>
