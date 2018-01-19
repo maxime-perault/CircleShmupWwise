@@ -1,7 +1,7 @@
 Event	ID	Name			Wwise Object Path	Notes
 	72582861	Piment_Prep_Stop			\Default Work Unit\Ennemies\Piment\Piment_Prep_Stop	
 	202194903	Music_Play			\Default Work Unit\Music\Music_Play	
-	329483606	Main_Menu_UI_Play			\Default Work Unit\Main_Menu_UI_Play	
+	329483606	Main_Menu_UI_Play			\Default Work Unit\UI\Main_Menu_UI_Play	
 	1219808192	Beurre_Move			\Default Work Unit\Petit_Beurre\Beurre_Move	
 	1306613731	aTable_Play			\Default Work Unit\aTable_Play	
 	1649919439	Piment_Prep_Play			\Default Work Unit\Ennemies\Piment\Piment_Prep_Play	
@@ -12,6 +12,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	3400481729	Ennemy_Pop			\Default Work Unit\Ennemies\Ennemy_Pop	
 	3447192571	Beurre_Stop			\Default Work Unit\Petit_Beurre\Beurre_Stop	
 	4134055255	Piment_Cogne			\Default Work Unit\Ennemies\Piment\Piment_Cogne	
+	4186766898	Main_Menu_UI_Validate			\Default Work Unit\UI\Main_Menu_UI_Validate	
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
 	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
@@ -32,6 +33,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	293664093	Music	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2_1_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music		8467488
 	676187997	Music_Menu	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmup musique Menu_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music_Menu		6048320
 	678648291	aTable	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2-atable_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\aTable		165516
+	833735025	Main_Menu_UI_Validate	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\UI_Sound_Validate_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Main_Menu_UI_Validate		26432
 	834534856	Beurre_Stop	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\PetitBeurreStop_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Petit_Beurre\Beurre_Stop		47936
 	930639951	Piment_Cogne	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Cogne_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ennemies\Piment\Piment_Cogne		110144
 

@@ -25,7 +25,8 @@
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
-				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\Main_Menu_UI_Play"/>
+				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
+				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
 				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Play"/>
 				<Event Id="3264661319" Name="Music_Menu_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Stop"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Play"/>
@@ -67,6 +68,10 @@
 				<File Id="678648291" Language="SFX">
 					<ShortName>Shmupv2-atable.wav</ShortName>
 					<Path>SFX\Shmupv2-atable_1C9C67B2.wem</Path>
+				</File>
+				<File Id="833735025" Language="SFX">
+					<ShortName>UI_Sound_Validate.wav</ShortName>
+					<Path>SFX\UI_Sound_Validate_1C9C67B2.wem</Path>
 				</File>
 				<File Id="834534856" Language="SFX">
 					<ShortName>PetitBeurreStop.wav</ShortName>

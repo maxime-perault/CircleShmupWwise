@@ -17,20 +17,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Main_Menu_UI_Play" ID="{83EA33E9-F433-4998-9573-D549C57C14BA}">
-					<ChildrenList>
-						<Action Name="" ID="{D848FA38-DF65-406E-A441-BC829322B3D4}" ShortID="193800704">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Main_Menu_UI" ID="{B24A57E9-4ED4-4669-86C0-9291F9EFDEBC}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Folder Name="Music" ID="{018CCEC4-6864-4565-A37F-B92FA4D93DFE}" ShortID="331451176">
 					<ChildrenList>
 						<Event Name="Music_Stop" ID="{CDB0E6A6-B2A5-4564-9617-676B3F7409F2}">
@@ -197,6 +183,38 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Ennemy_Pop" ID="{BD8338AD-BDD0-48C1-8D62-18212E943E73}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="UI" ID="{C26A1EFD-8ABE-4904-BE03-CC15D62D1F6F}" ShortID="238106176">
+					<ChildrenList>
+						<Event Name="Main_Menu_UI_Play" ID="{83EA33E9-F433-4998-9573-D549C57C14BA}">
+							<ChildrenList>
+								<Action Name="" ID="{D848FA38-DF65-406E-A441-BC829322B3D4}" ShortID="193800704">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Main_Menu_UI" ID="{B24A57E9-4ED4-4669-86C0-9291F9EFDEBC}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Main_Menu_UI_Validate" ID="{B5A96082-34AC-407F-A2ED-7C54BFD25E91}">
+							<ChildrenList>
+								<Action Name="" ID="{224A1269-3AF2-4D58-A86F-B5EF745B48AA}" ShortID="730526179">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Main_Menu_UI_Validate" ID="{11BEF513-4185-49BC-8CB3-162089D2C64A}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
