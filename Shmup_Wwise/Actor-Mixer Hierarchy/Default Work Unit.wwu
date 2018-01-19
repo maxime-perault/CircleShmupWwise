@@ -193,6 +193,13 @@
 						<Folder Name="UI" ID="{B61F9967-5B0B-4E2C-9F0B-FF1358CEF9BF}" ShortID="248708113">
 							<ChildrenList>
 								<Sound Name="Main_Menu_UI" ID="{B24A57E9-4ED4-4669-86C0-9291F9EFDEBC}" ShortID="40811938">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-6</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
@@ -212,6 +219,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Main_Menu_UI_Validate" ID="{11BEF513-4185-49BC-8CB3-162089D2C64A}" ShortID="581834610">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>6</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
