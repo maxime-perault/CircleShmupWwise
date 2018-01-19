@@ -109,6 +109,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Beurre_Hit" ID="{DE11E392-8D24-4857-B086-78A9A5B44747}">
+							<ChildrenList>
+								<Action Name="" ID="{8CB3FCCD-4B43-495D-817D-55772195279F}" ShortID="1019543059">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Beurre_Hit" ID="{8D4FE2FE-6246-492E-B48D-7EC34C06991E}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Ennemies" ID="{DEFBF487-837E-47D6-8374-36DDDF09884B}" ShortID="697918618">

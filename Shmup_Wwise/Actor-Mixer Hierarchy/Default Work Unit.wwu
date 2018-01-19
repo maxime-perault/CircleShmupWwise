@@ -157,6 +157,37 @@
 										<ActiveSource Name="PetitBeurreStop" ID="{F1AF3467-AD31-4143-B5DB-03E0CB860CA3}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="Beurre_Hit" ID="{8D4FE2FE-6246-492E-B48D-7EC34C06991E}" ShortID="841261865">
+									<PropertyList>
+										<Property Name="MaxSoundPerInstance" Type="int16">
+											<ValueList>
+												<Value>1</Value>
+											</ValueList>
+										</Property>
+										<Property Name="UseMaxSoundPerInstance" Type="bool">
+											<ValueList>
+												<Value>True</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Petit_Beurre_Hit" ID="{DDFE97DE-8B2C-408B-A96F-1B99697E5CF4}" ShortID="16367516">
+											<Language>SFX</Language>
+											<AudioFile>Petit_Beurre_Hit.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Petit_Beurre_Hit" ID="{DDFE97DE-8B2C-408B-A96F-1B99697E5CF4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</Folder>
 						<Folder Name="UI" ID="{B61F9967-5B0B-4E2C-9F0B-FF1358CEF9BF}" ShortID="248708113">

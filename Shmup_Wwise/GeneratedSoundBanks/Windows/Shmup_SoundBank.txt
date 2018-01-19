@@ -3,6 +3,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	202194903	Music_Play			\Default Work Unit\Music\Music_Play	
 	329483606	Main_Menu_UI_Play			\Default Work Unit\UI\Main_Menu_UI_Play	
 	1219808192	Beurre_Move			\Default Work Unit\Petit_Beurre\Beurre_Move	
+	1259523794	Beurre_Hit			\Default Work Unit\Petit_Beurre\Beurre_Hit	
 	1306613731	aTable_Play			\Default Work Unit\aTable_Play	
 	1649919439	Piment_Prep_Play			\Default Work Unit\Ennemies\Piment\Piment_Prep_Play	
 	2013246097	Music_Menu_Play			\Default Work Unit\Music\Music_Menu_Play	
@@ -29,6 +30,7 @@ Effect plug-ins	ID	Name	Type				Notes
 	506891147	Plate_Small	Wwise RoomVerb			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16367516	Beurre_Hit	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Petit_Beurre_Hit_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Hit		41536
 	24549672	Piment_Charge	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Charge_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Charge		278592
 	72504660	Beurre_Move	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\PetitBeurreMove1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Move		46016
 	255192302	Piment_Prep	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_prep_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Prep		529472

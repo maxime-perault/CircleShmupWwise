@@ -22,6 +22,7 @@
 			<Path>Shmup_SoundBank.bnk</Path>
 			<IncludedEvents>
 				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
+				<Event Id="1259523794" Name="Beurre_Hit" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Hit"/>
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
@@ -37,6 +38,10 @@
 				<Event Id="72582861" Name="Piment_Prep_Stop" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Stop"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="16367516" Language="SFX">
+					<ShortName>Petit_Beurre_Hit.wav</ShortName>
+					<Path>SFX\Petit_Beurre_Hit_1C9C67B2.wem</Path>
+				</File>
 				<File Id="24549672" Language="SFX">
 					<ShortName>Piment_Charge.wav</ShortName>
 					<Path>SFX\Piment_Charge_1C9C67B2.wem</Path>
