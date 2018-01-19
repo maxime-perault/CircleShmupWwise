@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="Shmup_SoundBank" ID="{0272F282-E21C-4C32-8359-DCF17CA2E4F5}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Default Work Unit" ID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Default Work Unit" ID="{6F94EAA9-4877-497D-86E4-9102BB699B60}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Default Work Unit" ID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}" Filter="7" Origin="Manual"/>
