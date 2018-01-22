@@ -234,6 +234,38 @@
 								</Event>
 							</ChildrenList>
 						</Folder>
+						<Folder Name="Brochette" ID="{ECAC320B-216E-43BA-8C18-A0133528AEFD}" ShortID="181556314">
+							<ChildrenList>
+								<Event Name="Brochette_Death" ID="{CD8554A4-971D-4047-8375-E829989265F6}">
+									<ChildrenList>
+										<Action Name="" ID="{294012DB-9281-40A0-8E4D-1FE9166F6D7E}" ShortID="1003595397">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Brochette_Death" ID="{8EBEC115-6681-4974-89B6-CF780A273B39}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="Brochette_Tomato_Destroy" ID="{375485F9-CFD3-4130-A16D-79F161D696E5}">
+									<ChildrenList>
+										<Action Name="" ID="{78018945-D7B5-43FB-AD89-5D4C8EB8851A}" ShortID="620667346">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Brochette_Tomato_Destroy" ID="{ED86E3EB-CABC-4410-AAC4-AE3159F0DEEF}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="UI" ID="{C26A1EFD-8ABE-4904-BE03-CC15D62D1F6F}" ShortID="238106176">

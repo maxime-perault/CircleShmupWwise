@@ -650,6 +650,77 @@
 										</ActorMixer>
 									</ChildrenList>
 								</Folder>
+								<Folder Name="Brochette" ID="{6433A220-DFD3-49ED-B9E2-388F9CE9C4A0}" ShortID="855401200">
+									<ChildrenList>
+										<Sound Name="Brochette_Death" ID="{8EBEC115-6681-4974-89B6-CF780A273B39}" ShortID="992112264">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Brochette_Death" ID="{4DB07D2C-AFF4-4DBA-BBD0-D902B554E230}" ShortID="658795816">
+													<PropertyList>
+														<Property Name="FadeOutDuration" Type="Real64" Value="3.19427492325977E-02"/>
+													</PropertyList>
+													<Language>SFX</Language>
+													<AudioFile>Brochette_Death.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Brochette_Death" ID="{4DB07D2C-AFF4-4DBA-BBD0-D902B554E230}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+										<Sound Name="Brochette_Tomato_Destroy" ID="{ED86E3EB-CABC-4410-AAC4-AE3159F0DEEF}" ShortID="355548482">
+											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ValueList>
+														<Value>-130</Value>
+													</ValueList>
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{FDD8CD60-8A85-4317-BF9C-00E9AF6290A8}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Min" Type="Real64" Value="-150"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-5</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Brochette_Tomato_Destroy" ID="{17063541-3223-4FB7-AFB9-ACA1819D63B9}" ShortID="239112230">
+													<PropertyList>
+														<Property Name="FadeInDuration" Type="Real64" Value="1.29762961990799E-02"/>
+														<Property Name="FadeOutDuration" Type="Real64" Value="3.49475249907037E-02"/>
+													</PropertyList>
+													<Language>SFX</Language>
+													<AudioFile>Brochette_Tomato_Destroy.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<ActiveSourceList>
+												<ActiveSource Name="Brochette_Tomato_Destroy" ID="{17063541-3223-4FB7-AFB9-ACA1819D63B9}" Platform="Linked"/>
+											</ActiveSourceList>
+										</Sound>
+									</ChildrenList>
+								</Folder>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>
