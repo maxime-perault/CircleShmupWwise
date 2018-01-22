@@ -264,6 +264,20 @@
 										</Action>
 									</ChildrenList>
 								</Event>
+								<Event Name="Brochette_Hit_Invulnerable" ID="{2A9E46CD-A603-4513-8EDF-C5421C8B40B0}">
+									<ChildrenList>
+										<Action Name="" ID="{3BB426DA-14E9-4EDA-9750-175A523556D2}" ShortID="562700991">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Brochette_Hit_Invulnerable" ID="{94311F2B-BC7A-4F9D-8071-5DD7304C0158}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>
