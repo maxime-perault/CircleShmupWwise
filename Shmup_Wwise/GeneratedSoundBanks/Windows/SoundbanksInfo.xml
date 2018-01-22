@@ -35,6 +35,8 @@
 				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
 				<Event Id="2560791400" Name="Mais_Move_Down" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Down"/>
 				<Event Id="3231687467" Name="Mais_Move_Up" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Up"/>
+				<Event Id="1271300845" Name="Mais_Shot_Fire" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Shot_Fire"/>
+				<Event Id="3048892388" Name="Mais_Shot_Prep" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Shot_Prep"/>
 				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Play"/>
 				<Event Id="3264661319" Name="Music_Menu_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Stop"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Play"/>
@@ -59,15 +61,15 @@
 				</File>
 				<File Id="74836667" Language="SFX">
 					<ShortName>Main_Menu_UI_1.wav</ShortName>
-					<Path>SFX\Main_Menu_UI_1_38EE255D.wem</Path>
+					<Path>SFX\Main_Menu_UI_1_D4944599.wem</Path>
 				</File>
 				<File Id="81027486" Language="SFX">
 					<ShortName>Plotch_Mais_1.wav</ShortName>
-					<Path>SFX\Plotch_Mais_1_BB19E5C9.wem</Path>
+					<Path>SFX\Plotch_Mais_1_5D7A8BAA.wem</Path>
 				</File>
 				<File Id="239112230" Language="SFX">
 					<ShortName>Brochette_Tomato_Destroy.wav</ShortName>
-					<Path>SFX\Brochette_Tomato_Destroy_7300B62D.wem</Path>
+					<Path>SFX\Brochette_Tomato_Destroy_075266FC.wem</Path>
 				</File>
 				<File Id="255192302" Language="SFX">
 					<ShortName>Piment_prep.wav</ShortName>
@@ -75,7 +77,7 @@
 				</File>
 				<File Id="287832618" Language="SFX">
 					<ShortName>Main_Menu_UI_2.wav</ShortName>
-					<Path>SFX\Main_Menu_UI_2_0F12D302.wem</Path>
+					<Path>SFX\Main_Menu_UI_2_7B459017.wem</Path>
 				</File>
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
@@ -83,19 +85,27 @@
 				</File>
 				<File Id="351504492" Language="SFX">
 					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
-					<Path>SFX\Main_Menu_UI_Negative_4F857DE2.wem</Path>
+					<Path>SFX\Main_Menu_UI_Negative_BC1512CB.wem</Path>
 				</File>
 				<File Id="396360447" Language="SFX">
 					<ShortName>Main_Menu_UI_Back.wav</ShortName>
-					<Path>SFX\Main_Menu_UI_Back_58FCFB19.wem</Path>
+					<Path>SFX\Main_Menu_UI_Back_4CB36812.wem</Path>
+				</File>
+				<File Id="524348654" Language="SFX">
+					<ShortName>Mais_Shot_Prep.wav</ShortName>
+					<Path>SFX\Mais_Shot_Prep_2C239F43.wem</Path>
+				</File>
+				<File Id="648817926" Language="SFX">
+					<ShortName>Mais_Shot_Fire.wav</ShortName>
+					<Path>SFX\Mais_Shot_Fire_9178A2B7.wem</Path>
 				</File>
 				<File Id="658795816" Language="SFX">
 					<ShortName>Brochette_Death.wav</ShortName>
-					<Path>SFX\Brochette_Death_40C0E4E2.wem</Path>
+					<Path>SFX\Brochette_Death_00DA7168.wem</Path>
 				</File>
 				<File Id="670496894" Language="SFX">
 					<ShortName>Plotch_Mais_2.wav</ShortName>
-					<Path>SFX\Plotch_Mais_2_D9BB385B.wem</Path>
+					<Path>SFX\Plotch_Mais_2_1076FD7D.wem</Path>
 				</File>
 				<File Id="676187997" Language="SFX">
 					<ShortName>Shmup musique Menu.wav</ShortName>
@@ -115,7 +125,7 @@
 				</File>
 				<File Id="873245161" Language="SFX">
 					<ShortName>Whoosh_Mais.wav</ShortName>
-					<Path>SFX\Whoosh_Mais_CB7F1667.wem</Path>
+					<Path>SFX\Whoosh_Mais_FA018E8D.wem</Path>
 				</File>
 				<File Id="930639951" Language="SFX">
 					<ShortName>Piment_Cogne.wav</ShortName>
@@ -123,7 +133,7 @@
 				</File>
 				<File Id="967738362" Language="SFX">
 					<ShortName>Ennemy_Pop_1.wav</ShortName>
-					<Path>SFX\Ennemy_Pop_1_41F6265F.wem</Path>
+					<Path>SFX\Ennemy_Pop_1_8C4D9007.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

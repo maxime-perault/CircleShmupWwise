@@ -6,6 +6,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	877765698	Main_Menu_UI_Error			\Default Work Unit\UI\Main_Menu_UI_Error	
 	1219808192	Beurre_Move			\Default Work Unit\Petit_Beurre\Beurre_Move	
 	1259523794	Beurre_Hit			\Default Work Unit\Petit_Beurre\Beurre_Hit	
+	1271300845	Mais_Shot_Fire			\Default Work Unit\Ennemies\Mais\Mais_Shot_Fire	
 	1306613731	aTable_Play			\Default Work Unit\aTable_Play	
 	1392079844	Brochette_Death			\Default Work Unit\Ennemies\Brochette\Brochette_Death	
 	1450580127	Brochette_Tomato_Destroy			\Default Work Unit\Ennemies\Brochette\Brochette_Tomato_Destroy	
@@ -13,6 +14,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2013246097	Music_Menu_Play			\Default Work Unit\Music\Music_Menu_Play	
 	2560791400	Mais_Move_Down			\Default Work Unit\Ennemies\Mais\Mais_Move_Down	
 	2914639251	Piment_Charge			\Default Work Unit\Ennemies\Piment\Piment_Charge	
+	3048892388	Mais_Shot_Prep			\Default Work Unit\Ennemies\Mais\Mais_Shot_Prep	
 	3227181061	Music_Stop			\Default Work Unit\Music\Music_Stop	
 	3231687467	Mais_Move_Up			\Default Work Unit\Ennemies\Mais\Mais_Move_Up	
 	3264661319	Music_Menu_Stop			\Default Work Unit\Music\Music_Menu_Stop	
@@ -40,21 +42,23 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	16367516	Beurre_Hit	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Petit_Beurre_Hit_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Hit		41536
 	24549672	Piment_Charge	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Charge_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Charge		278592
 	72504660	Beurre_Move	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\PetitBeurreMove1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Move		46016
-	74836667	Main_Menu_UI	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_1_38EE255D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI		26496
-	81027486	Plotch_Mais_1	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Plotch_Mais_1_BB19E5C9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Move_Mais\Plotch_Mais_1		28888
-	239112230	Brochette_Tomato_Destroy	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Tomato_Destroy_7300B62D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Tomato_Destroy		40512
+	74836667	Main_Menu_UI	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_1_D4944599.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI		26496
+	81027486	Plotch_Mais_1	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Plotch_Mais_1_5D7A8BAA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Move_Mais\Plotch_Mais_1		28888
+	239112230	Brochette_Tomato_Destroy	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Tomato_Destroy_075266FC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Tomato_Destroy		40512
 	255192302	Piment_Prep	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_prep_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Prep		529472
-	287832618	Main_Menu_UI_Validate	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_2_0F12D302.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Validate		62656
+	287832618	Main_Menu_UI_Validate	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_2_7B459017.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Validate		62656
 	293664093	Music	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2_1_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_Music\Music		8467488
-	351504492	Main_Menu_UI_Error	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Negative_4F857DE2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Error		60480
-	396360447	Main_Menu_UI_Back	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Back_58FCFB19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Back		25312
-	658795816	Brochette_Death	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Death_40C0E4E2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Death		82724
-	670496894	Plotch_Mais_2	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Plotch_Mais_2_D9BB385B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Move_Mais\Plotch_Mais_2		29096
+	351504492	Main_Menu_UI_Error	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Negative_BC1512CB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Error		60480
+	396360447	Main_Menu_UI_Back	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Back_4CB36812.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Back		25312
+	524348654	Mais_Shot_Prep	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Mais_Shot_Prep_2C239F43.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Mais_Shot_Prep		59740
+	648817926	Mais_Shot_Fire	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Mais_Shot_Fire_9178A2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Mais_Shot_Fire		95512
+	658795816	Brochette_Death	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Death_00DA7168.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Death		82724
+	670496894	Plotch_Mais_2	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Plotch_Mais_2_1076FD7D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Move_Mais\Plotch_Mais_2		29096
 	676187997	Music_Menu	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmup musique Menu_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_Music\Music_Menu		6048320
 	678648291	aTable	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Shmupv2-atable_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\aTable		165516
 	691860946	Brochette_Hit_Invulnerable	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Hit_Invulnerable_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Hit_Invulnerable		71744
 	834534856	Beurre_Stop	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\PetitBeurreStop_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Stop		47936
-	873245161	Whoosh_Mais	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Whoosh_Mais_CB7F1667.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Whoosh_Mais		16576
+	873245161	Whoosh_Mais	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Whoosh_Mais_FA018E8D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Whoosh_Mais		16576
 	930639951	Piment_Cogne	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Cogne_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Cogne		110144
-	967738362	Ennemy_Pop	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Ennemy_Pop_1_41F6265F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Ennemy_Pop		132160
+	967738362	Ennemy_Pop	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Ennemy_Pop_1_8C4D9007.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Ennemy_Pop		132160
 

@@ -232,6 +232,34 @@
 										</Action>
 									</ChildrenList>
 								</Event>
+								<Event Name="Mais_Shot_Fire" ID="{339AD609-780D-460D-B27B-3278D6F8973A}">
+									<ChildrenList>
+										<Action Name="" ID="{67D93671-07E5-4EF8-AE06-53594A12C1B9}" ShortID="920118732">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Mais_Shot_Fire" ID="{EF5ED77D-1187-4569-B9AD-46CF68F11883}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="Mais_Shot_Prep" ID="{A797D081-E4D0-48F5-BE49-F9977A82496D}">
+									<ChildrenList>
+										<Action Name="" ID="{010878DC-7352-4423-8561-EF441A6DA481}" ShortID="913516675">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Mais_Shot_Prep" ID="{711C1CBD-3012-4A42-BB20-A14816D27A07}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 							</ChildrenList>
 						</Folder>
 						<Folder Name="Brochette" ID="{ECAC320B-216E-43BA-8C18-A0133528AEFD}" ShortID="181556314">
