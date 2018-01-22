@@ -10,6 +10,10 @@
 							<Position X="0" Y="0"/>
 						</Module>
 						<Module>
+							<ObjectRef Name="Music" ID="{8F3EE129-A638-48C4-9F8B-B04F68B84909}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
 							<ObjectRef Name="Main_Menu_UI_Play" ID="{83EA33E9-F433-4998-9573-D549C57C14BA}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="1" Y="0"/>
 						</Module>

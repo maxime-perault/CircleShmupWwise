@@ -4,12 +4,12 @@
 		<Banks>
 			<Language ID="393239870">
 				<File Name="Init" Hash="1328912452" Timestamp="131608593457207780"/>
-				<File Name="Shmup_SoundBank" Hash="1895864538" Timestamp="131610843484453525"/>
+				<File Name="Shmup_SoundBank" Hash="4224563657" Timestamp="131611023724985676"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="764066943" Timestamp="131610843484836653"/>
+				<File Name="" Hash="3933191499" Timestamp="131611023725150766"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

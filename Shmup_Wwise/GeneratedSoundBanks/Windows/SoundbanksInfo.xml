@@ -29,6 +29,8 @@
 				<Event Id="877765698" Name="Main_Menu_UI_Error" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Error"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
 				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
+				<Event Id="2560791400" Name="Mais_Move_Down" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Down"/>
+				<Event Id="3231687467" Name="Mais_Move_Up" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Up"/>
 				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Play"/>
 				<Event Id="3264661319" Name="Music_Menu_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Stop"/>
 				<Event Id="202194903" Name="Music_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Play"/>
@@ -55,6 +57,10 @@
 					<ShortName>Main_Menu_UI_1.wav</ShortName>
 					<Path>SFX\Main_Menu_UI_1_38EE255D.wem</Path>
 				</File>
+				<File Id="81027486" Language="SFX">
+					<ShortName>Plotch_Mais_1.wav</ShortName>
+					<Path>SFX\Plotch_Mais_1_BB19E5C9.wem</Path>
+				</File>
 				<File Id="255192302" Language="SFX">
 					<ShortName>Piment_prep.wav</ShortName>
 					<Path>SFX\Piment_prep_1C9C67B2.wem</Path>
@@ -71,6 +77,10 @@
 					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
 					<Path>SFX\Main_Menu_UI_Negative_4F857DE2.wem</Path>
 				</File>
+				<File Id="670496894" Language="SFX">
+					<ShortName>Plotch_Mais_2.wav</ShortName>
+					<Path>SFX\Plotch_Mais_2_D9BB385B.wem</Path>
+				</File>
 				<File Id="676187997" Language="SFX">
 					<ShortName>Shmup musique Menu.wav</ShortName>
 					<Path>SFX\Shmup musique Menu_F17FB28C.wem</Path>
@@ -82,6 +92,10 @@
 				<File Id="834534856" Language="SFX">
 					<ShortName>PetitBeurreStop.wav</ShortName>
 					<Path>SFX\PetitBeurreStop_1C9C67B2.wem</Path>
+				</File>
+				<File Id="873245161" Language="SFX">
+					<ShortName>Whoosh_Mais.wav</ShortName>
+					<Path>SFX\Whoosh_Mais_CB7F1667.wem</Path>
 				</File>
 				<File Id="930639951" Language="SFX">
 					<ShortName>Piment_Cogne.wav</ShortName>

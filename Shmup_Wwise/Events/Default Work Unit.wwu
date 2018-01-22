@@ -202,6 +202,38 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Folder Name="Mais" ID="{9B951BBA-585A-40FE-922B-3C9F4F44D720}" ShortID="255782909">
+							<ChildrenList>
+								<Event Name="Mais_Move_Up" ID="{05A265D5-0C0D-47F4-A439-3589134A7360}">
+									<ChildrenList>
+										<Action Name="" ID="{8FC3E718-84A0-4FF6-8399-8F31F79F6A3B}" ShortID="254551581">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Whoosh_Mais" ID="{26EA54E3-F0E7-45B1-AAAA-A61D82014C6C}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="Mais_Move_Down" ID="{0436091C-D9A8-461C-A729-F6F8AE89D80E}">
+									<ChildrenList>
+										<Action Name="" ID="{8BBA3FFF-E3E2-49D4-A187-62B331949790}" ShortID="14439602">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Move_Mais" ID="{06071E5A-5E09-48EC-ADA0-C44EBC49AB67}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="UI" ID="{C26A1EFD-8ABE-4904-BE03-CC15D62D1F6F}" ShortID="238106176">
