@@ -292,6 +292,36 @@
 										<ActiveSource Name="Main_Menu_UI_Negative" ID="{476AE586-337D-4FD5-9D25-C53198C8023E}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="Main_Menu_UI_Back" ID="{3D00EDFC-B60B-480B-B2CD-97542E0C452B}" ShortID="649538489">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>7</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Main_Menu_UI_Back" ID="{0FDB6160-A6A4-4565-BFBE-08C6DDC6AFC7}" ShortID="396360447">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="1.01248988341317E-03"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.19657895312464E-03"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Main_Menu_UI_Back.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Main_Menu_UI_Back" ID="{0FDB6160-A6A4-4565-BFBE-08C6DDC6AFC7}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</Folder>
 						<Folder Name="Ennemies" ID="{78CD44AD-9C18-4270-960C-63FCCBF5258E}" ShortID="710471398">
@@ -383,6 +413,10 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="Ennemy_Pop_1" ID="{2372B362-2CD8-4413-8117-FB3A3AE5DE60}" ShortID="967738362">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="1.97444276746068E-02"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.25208565741409E-02"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>Ennemy_Pop_1.wav</AudioFile>
 										</AudioFileSource>

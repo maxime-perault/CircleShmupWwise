@@ -26,6 +26,7 @@
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
+				<Event Id="15365369" Name="Main_Menu_UI_Back" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Back"/>
 				<Event Id="877765698" Name="Main_Menu_UI_Error" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Error"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
 				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
@@ -77,6 +78,10 @@
 					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
 					<Path>SFX\Main_Menu_UI_Negative_4F857DE2.wem</Path>
 				</File>
+				<File Id="396360447" Language="SFX">
+					<ShortName>Main_Menu_UI_Back.wav</ShortName>
+					<Path>SFX\Main_Menu_UI_Back_58FCFB19.wem</Path>
+				</File>
 				<File Id="670496894" Language="SFX">
 					<ShortName>Plotch_Mais_2.wav</ShortName>
 					<Path>SFX\Plotch_Mais_2_D9BB385B.wem</Path>
@@ -103,7 +108,7 @@
 				</File>
 				<File Id="967738362" Language="SFX">
 					<ShortName>Ennemy_Pop_1.wav</ShortName>
-					<Path>SFX\Ennemy_Pop_1_1C9C67B2.wem</Path>
+					<Path>SFX\Ennemy_Pop_1_41F6265F.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

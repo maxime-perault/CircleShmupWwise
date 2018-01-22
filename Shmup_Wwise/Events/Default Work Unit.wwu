@@ -282,6 +282,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Main_Menu_UI_Back" ID="{A7AE1CC3-B6E3-47F3-814C-435D1A923B84}">
+							<ChildrenList>
+								<Action Name="" ID="{E5527784-92FF-419D-B37D-8FE8CB2E7D75}" ShortID="425892841">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Main_Menu_UI_Back" ID="{3D00EDFC-B60B-480B-B2CD-97542E0C452B}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
