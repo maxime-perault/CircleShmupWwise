@@ -7,6 +7,7 @@
 				<Property Name="Event Action List\{16FE29F0-1DF0-41AB-B6DF-538D6CE8A8B2}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{8363E337-8507-40D5-9C72-C1C2558A5F66}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{83EA33E9-F433-4998-9573-D549C57C14BA}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A4FF67C5-DFD9-4750-ADE7-96415C6F629C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{AB7E9B7C-0B6A-4651-860B-A56B3292A3A3}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{AECEA21B-34AE-47C3-AAC3-1D31A308DC8E}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{AFC5FECA-C04A-4D09-B867-D510D8CFCF9A}\x64_Expand States" Type="string" Value=""/>
@@ -61,7 +62,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ86nqlG93SH1JhuSRArtpm2B+vODSP3v+T6Zw+uAnYbYx"/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="J6HGPKMKBEaMKrAt3Ma9MjiJFWG+EMdGrS9C6DaRV2QW8oxdZlzgRrL7czadK2S1kMYeQw0HT0e/qG1qbFdlbw=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="J6HGPKMKBEaMKrAt3Ma9MjiJFWG+EMdGrS9C6DaRV2QW8oxdZlzgRrL7czadK2S1kMYeQw0HT0e/qG1qbFdlb2eZH7YLWyxOnwv/E1jO+b8="/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="xM6MAWRoZUWjf7kvpNk9/of0+95+g9ZHg3Q23d8JiEv9HmrCvooESb4DzBXWLR9v4Ehjc93MWkmQBxTvwWpSROxDlLJtqCpPtVHZE6MfRsM="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
@@ -107,6 +108,7 @@
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
+				<Property Name="Soundcaster\PreviousSession" Type="string" Value="{4D13EE94-D865-4366-82C3-245B6BE80C61}"/>
 			</PropertyList>
 		</UserProjectSettings>
 	</UserProjectSettingsInfo>

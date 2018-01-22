@@ -26,6 +26,7 @@
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
+				<Event Id="877765698" Name="Main_Menu_UI_Error" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Error"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
 				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
 				<Event Id="2013246097" Name="Music_Menu_Play" ObjectPath="\Events\Default Work Unit\Music\Music_Menu_Play"/>
@@ -50,17 +51,25 @@
 					<ShortName>PetitBeurreMove1.wav</ShortName>
 					<Path>SFX\PetitBeurreMove1_1C9C67B2.wem</Path>
 				</File>
+				<File Id="74836667" Language="SFX">
+					<ShortName>Main_Menu_UI_1.wav</ShortName>
+					<Path>SFX\Main_Menu_UI_1_38EE255D.wem</Path>
+				</File>
 				<File Id="255192302" Language="SFX">
 					<ShortName>Piment_prep.wav</ShortName>
 					<Path>SFX\Piment_prep_1C9C67B2.wem</Path>
 				</File>
-				<File Id="258863870" Language="SFX">
-					<ShortName>Shmup_UI.wav</ShortName>
-					<Path>SFX\Shmup_UI_CB15A543.wem</Path>
+				<File Id="287832618" Language="SFX">
+					<ShortName>Main_Menu_UI_2.wav</ShortName>
+					<Path>SFX\Main_Menu_UI_2_0F12D302.wem</Path>
 				</File>
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
 					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="351504492" Language="SFX">
+					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
+					<Path>SFX\Main_Menu_UI_Negative_4F857DE2.wem</Path>
 				</File>
 				<File Id="676187997" Language="SFX">
 					<ShortName>Shmup musique Menu.wav</ShortName>
@@ -69,10 +78,6 @@
 				<File Id="678648291" Language="SFX">
 					<ShortName>Shmupv2-atable.wav</ShortName>
 					<Path>SFX\Shmupv2-atable_1C9C67B2.wem</Path>
-				</File>
-				<File Id="833735025" Language="SFX">
-					<ShortName>UI_Sound_Validate.wav</ShortName>
-					<Path>SFX\UI_Sound_Validate_D2A210AB.wem</Path>
 				</File>
 				<File Id="834534856" Language="SFX">
 					<ShortName>PetitBeurreStop.wav</ShortName>

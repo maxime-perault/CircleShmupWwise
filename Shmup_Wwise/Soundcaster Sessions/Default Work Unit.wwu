@@ -17,6 +17,10 @@
 							<ObjectRef Name="Main_Menu_UI_Validate" ID="{B5A96082-34AC-407F-A2ED-7C54BFD25E91}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="2" Y="0"/>
 						</Module>
+						<Module>
+							<ObjectRef Name="Main_Menu_UI_Error" ID="{4E500B12-B287-4806-949D-CFB81FE6FEBF}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+							<Position X="3" Y="0"/>
+						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>

@@ -236,6 +236,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Main_Menu_UI_Error" ID="{A4FF67C5-DFD9-4750-ADE7-96415C6F629C}">
+							<ChildrenList>
+								<Action Name="" ID="{D87D2821-4076-4876-8016-6DF0DB5B793A}" ShortID="980044381">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Main_Menu_UI_Error" ID="{4E500B12-B287-4806-949D-CFB81FE6FEBF}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
