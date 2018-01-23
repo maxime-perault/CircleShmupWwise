@@ -51,6 +51,7 @@
 				<Event Id="3889895677" Name="Piment_Cogne_Player" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Cogne_Player"/>
 				<Event Id="1649919439" Name="Piment_Prep_Play" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Play"/>
 				<Event Id="72582861" Name="Piment_Prep_Stop" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Stop"/>
+				<Event Id="3347740984" Name="Stage_Cleared" ObjectPath="\Events\Default Work Unit\Other\Stage_Cleared"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="16367516" Language="SFX">
@@ -156,6 +157,10 @@
 				<File Id="930639951" Language="SFX">
 					<ShortName>Piment_Cogne.wav</ShortName>
 					<Path>SFX\Piment_Cogne_1C9C67B2.wem</Path>
+				</File>
+				<File Id="947057396" Language="SFX">
+					<ShortName>Stage_Cleared.wav</ShortName>
+					<Path>SFX\Stage_Cleared_692BD58C.wem</Path>
 				</File>
 				<File Id="967738362" Language="SFX">
 					<ShortName>Ennemy_Pop_1.wav</ShortName>

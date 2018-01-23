@@ -1015,6 +1015,44 @@
 										<ActiveSource Name="A_Table_3" ID="{954B4B76-290D-4463-ABA7-10DD853A5606}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="Stage_Cleared" ID="{608D7FD4-254F-4DA9-BB50-8C1B084F37FB}" ShortID="514688048">
+									<PropertyList>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{34D29056-3AA2-4030-9937-F1DE67FF7349}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="100"/>
+															<Property Name="Min" Type="Real64" Value="-100"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Stage_Cleared" ID="{E212B898-D78F-4AF8-BE7E-04FD1360521A}" ShortID="947057396">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.125970120524094"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.191165182900599"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Stage_Cleared.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Stage_Cleared" ID="{E212B898-D78F-4AF8-BE7E-04FD1360521A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>

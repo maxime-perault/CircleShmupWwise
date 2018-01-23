@@ -22,6 +22,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	3227181061	Music_Stop			\Default Work Unit\Music\Music_Stop	
 	3231687467	Mais_Move_Up			\Default Work Unit\Ennemies\Mais\Mais_Move_Up	
 	3264661319	Music_Menu_Stop			\Default Work Unit\Music\Music_Menu_Stop	
+	3347740984	Stage_Cleared			\Default Work Unit\Other\Stage_Cleared	
 	3400481729	Ennemy_Pop			\Default Work Unit\Ennemies\Ennemy_Pop	
 	3447192571	Beurre_Stop			\Default Work Unit\Petit_Beurre\Beurre_Stop	
 	3584993428	Friture			\Default Work Unit\Other\Friture	
@@ -72,6 +73,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	873245161	Whoosh_Mais	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Whoosh_Mais_FA018E8D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Whoosh_Mais		16576
 	919315819	A_Table_3	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\A_Table_3_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Others\A_Table_3		268352
 	930639951	Piment_Cogne	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Cogne_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Cogne		135232
+	947057396	Stage_Cleared	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Stage_Cleared_692BD58C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Others\Stage_Cleared		269448
 	967738362	Ennemy_Pop	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Ennemy_Pop_1_8C4D9007.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Ennemy_Pop		132160
 	981617341	Piment_Cogne_Player	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Piment_Cogne_Player_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Piment\Piment_Cogne_Player		133184
 

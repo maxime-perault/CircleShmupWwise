@@ -458,6 +458,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Stage_Cleared" ID="{E6811A4A-9164-434F-A4FD-42A3B67E5ED7}">
+							<ChildrenList>
+								<Action Name="" ID="{3B7E8D88-2E7C-4D79-8A73-BC8AF49C527D}" ShortID="768124538">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Stage_Cleared" ID="{608D7FD4-254F-4DA9-BB50-8C1B084F37FB}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
