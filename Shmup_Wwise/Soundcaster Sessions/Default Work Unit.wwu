@@ -45,7 +45,7 @@
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="Ball_Distance" ID="{9F8DD7DD-B91E-446D-B681-9CC0C0E838AD}"/>
-							<Value>0</Value>
+							<Value>1.140976862789E-315</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="SS_Air_Month" ID="{09E2B445-C4A3-447F-B3CA-818A1D925EF7}"/>
