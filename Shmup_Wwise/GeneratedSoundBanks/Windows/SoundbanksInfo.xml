@@ -30,6 +30,8 @@
 				<Event Id="1392079844" Name="Brochette_Death" ObjectPath="\Events\Default Work Unit\Ennemies\Brochette\Brochette_Death"/>
 				<Event Id="3732690165" Name="Brochette_Hit_Invulnerable" ObjectPath="\Events\Default Work Unit\Ennemies\Brochette\Brochette_Hit_Invulnerable"/>
 				<Event Id="1450580127" Name="Brochette_Tomato_Destroy" ObjectPath="\Events\Default Work Unit\Ennemies\Brochette\Brochette_Tomato_Destroy"/>
+				<Event Id="1316671051" Name="End_Fail" ObjectPath="\Events\Default Work Unit\Other\End_Fail"/>
+				<Event Id="2617652611" Name="End_Victory" ObjectPath="\Events\Default Work Unit\Other\End_Victory"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
 				<Event Id="3584993428" Name="Friture" ObjectPath="\Events\Default Work Unit\Other\Friture"/>
 				<Event Id="15365369" Name="Main_Menu_UI_Back" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Back"/>
@@ -118,6 +120,10 @@
 					<ShortName>Main_Menu_UI_Back.wav</ShortName>
 					<Path>SFX\Main_Menu_UI_Back_4CB36812.wem</Path>
 				</File>
+				<File Id="425211512" Language="SFX">
+					<ShortName>End_Victory.wav</ShortName>
+					<Path>SFX\End_Victory_1C9C67B2.wem</Path>
+				</File>
 				<File Id="524348654" Language="SFX">
 					<ShortName>Mais_Shot_Prep.wav</ShortName>
 					<Path>SFX\Mais_Shot_Prep_2C239F43.wem</Path>
@@ -149,6 +155,10 @@
 				<File Id="873245161" Language="SFX">
 					<ShortName>Whoosh_Mais.wav</ShortName>
 					<Path>SFX\Whoosh_Mais_FA018E8D.wem</Path>
+				</File>
+				<File Id="918847094" Language="SFX">
+					<ShortName>End_Fail.wav</ShortName>
+					<Path>SFX\End_Fail_1C9C67B2.wem</Path>
 				</File>
 				<File Id="919315819" Language="SFX">
 					<ShortName>A_Table_3.wav</ShortName>

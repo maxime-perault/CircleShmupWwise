@@ -472,6 +472,34 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="End_Victory" ID="{E0F6F45A-AF1F-4020-89AB-D34495402E61}">
+							<ChildrenList>
+								<Action Name="" ID="{18CD0C93-1539-44E8-A4B0-4D20EFE5A599}" ShortID="1065960094">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="End_Victory" ID="{F8113EA5-0769-4650-B99C-D25D822658A0}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="End_Fail" ID="{5A725192-4DC3-4004-B71D-BEEE29CB0F24}">
+							<ChildrenList>
+								<Action Name="" ID="{31B3388C-C1BA-4C92-B708-490E2F00C625}" ShortID="952904299">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="End_Fail" ID="{930AA8E7-A748-4491-9A8D-D07BF291DAE9}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>

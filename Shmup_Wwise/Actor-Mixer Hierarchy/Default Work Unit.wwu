@@ -1053,6 +1053,44 @@
 										<ActiveSource Name="Stage_Cleared" ID="{E212B898-D78F-4AF8-BE7E-04FD1360521A}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
+								<Sound Name="End_Fail" ID="{930AA8E7-A748-4491-9A8D-D07BF291DAE9}" ShortID="856820464">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="End_Fail" ID="{9F724ACB-D78F-4247-8E8B-43A41C64D792}" ShortID="918847094">
+											<Language>SFX</Language>
+											<AudioFile>End_Fail.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="End_Fail" ID="{9F724ACB-D78F-4247-8E8B-43A41C64D792}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="End_Victory" ID="{F8113EA5-0769-4650-B99C-D25D822658A0}" ShortID="535776660">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="End_Victory" ID="{ACFDC734-1AE6-46C5-B96E-3A15C40BC837}" ShortID="425211512">
+											<Language>SFX</Language>
+											<AudioFile>End_Victory.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="End_Victory" ID="{ACFDC734-1AE6-46C5-B96E-3A15C40BC837}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>
