@@ -274,6 +274,20 @@
 										</Action>
 									</ChildrenList>
 								</Event>
+								<Event Name="Mais_Hit" ID="{2151AAAD-2F8F-4848-94C8-E4BE2C354091}">
+									<ChildrenList>
+										<Action Name="" ID="{45BC86E7-A806-4FF2-A6DA-28712E7D19B0}" ShortID="948117835">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Mais_Hit" ID="{7839BA35-FCF8-4001-BA36-5A3529EDE5F4}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 							</ChildrenList>
 						</Folder>
 						<Folder Name="Brochette" ID="{ECAC320B-216E-43BA-8C18-A0133528AEFD}" ShortID="181556314">

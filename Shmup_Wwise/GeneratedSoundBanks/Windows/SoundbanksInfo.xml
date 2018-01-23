@@ -37,6 +37,7 @@
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
 				<Event Id="4186766898" Name="Main_Menu_UI_Validate" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Validate"/>
 				<Event Id="1164865332" Name="Mais_Death" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Death"/>
+				<Event Id="54069141" Name="Mais_Hit" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Hit"/>
 				<Event Id="2560791400" Name="Mais_Move_Down" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Down"/>
 				<Event Id="3231687467" Name="Mais_Move_Up" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Move_Up"/>
 				<Event Id="1271300845" Name="Mais_Shot_Fire" ObjectPath="\Events\Default Work Unit\Ennemies\Mais\Mais_Shot_Fire"/>
@@ -95,6 +96,10 @@
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
 					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="305806161" Language="SFX">
+					<ShortName>Mais_Hit.wav</ShortName>
+					<Path>SFX\Mais_Hit_12404EA6.wem</Path>
 				</File>
 				<File Id="331415265" Language="SFX">
 					<ShortName>Friture.wav</ShortName>

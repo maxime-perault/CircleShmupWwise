@@ -767,6 +767,44 @@
 														<ActiveSource Name="Mais_Death" ID="{2A50962A-BF0F-4CFE-A1D9-A036FD559898}" Platform="Linked"/>
 													</ActiveSourceList>
 												</Sound>
+												<Sound Name="Mais_Hit" ID="{7839BA35-FCF8-4001-BA36-5A3529EDE5F4}" ShortID="775057475">
+													<PropertyList>
+														<Property Name="Pitch" Type="int32">
+															<ModifierList>
+																<ModifierInfo>
+																	<Modifier Name="" ID="{0DA42174-C519-4EB6-95A7-E64B2AC27884}">
+																		<PropertyList>
+																			<Property Name="Enabled" Type="bool" Value="True"/>
+																			<Property Name="Max" Type="Real64" Value="100"/>
+																			<Property Name="Min" Type="Real64" Value="-100"/>
+																		</PropertyList>
+																	</Modifier>
+																</ModifierInfo>
+															</ModifierList>
+														</Property>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="Mais_Hit" ID="{4D9B4FA2-6919-4898-8CD1-DCC53ED9870E}" ShortID="305806161">
+															<PropertyList>
+																<Property Name="FadeInDuration" Type="Real64" Value="2.43417838732492E-03"/>
+																<Property Name="FadeOutDuration" Type="Real64" Value="2.21288944302261E-03"/>
+															</PropertyList>
+															<Language>SFX</Language>
+															<AudioFile>Mais_Hit.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="Mais_Hit" ID="{4D9B4FA2-6919-4898-8CD1-DCC53ED9870E}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
 											</ChildrenList>
 										</ActorMixer>
 									</ChildrenList>
