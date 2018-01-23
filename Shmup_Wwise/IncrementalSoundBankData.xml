@@ -3,13 +3,13 @@
 	<Platform GUID="{20B07D91-6C52-4BD6-A953-E8FB1B74C5CA}">
 		<Banks>
 			<Language ID="393239870">
-				<File Name="Init" Hash="3521537385" Timestamp="131611802078017101"/>
+				<File Name="Init" Hash="3799852882" Timestamp="131612033351742194"/>
 				<File Name="Shmup_SoundBank" Hash="3314686862" Timestamp="131611928714252620"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="2048125225" Timestamp="131611928714337829"/>
+				<File Name="" Hash="2048125225" Timestamp="131612033351782706"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
