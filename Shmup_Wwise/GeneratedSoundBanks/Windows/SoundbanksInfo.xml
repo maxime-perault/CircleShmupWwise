@@ -43,6 +43,7 @@
 				<Event Id="3227181061" Name="Music_Stop" ObjectPath="\Events\Default Work Unit\Music\Music_Stop"/>
 				<Event Id="2914639251" Name="Piment_Charge" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Charge"/>
 				<Event Id="4134055255" Name="Piment_Cogne" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Cogne"/>
+				<Event Id="3889895677" Name="Piment_Cogne_Player" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Cogne_Player"/>
 				<Event Id="1649919439" Name="Piment_Prep_Play" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Play"/>
 				<Event Id="72582861" Name="Piment_Prep_Stop" ObjectPath="\Events\Default Work Unit\Ennemies\Piment\Piment_Prep_Stop"/>
 			</IncludedEvents>
@@ -134,6 +135,10 @@
 				<File Id="967738362" Language="SFX">
 					<ShortName>Ennemy_Pop_1.wav</ShortName>
 					<Path>SFX\Ennemy_Pop_1_8C4D9007.wem</Path>
+				</File>
+				<File Id="981617341" Language="SFX">
+					<ShortName>Piment_Cogne_Player.wav</ShortName>
+					<Path>SFX\Piment_Cogne_Player_1C9C67B2.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

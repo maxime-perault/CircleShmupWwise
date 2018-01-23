@@ -186,6 +186,20 @@
 										</Action>
 									</ChildrenList>
 								</Event>
+								<Event Name="Piment_Cogne_Player" ID="{7EF43C3B-8122-4164-B2C3-C9F137C7942F}">
+									<ChildrenList>
+										<Action Name="" ID="{C8DC99B6-3323-4229-B23D-EB82FEB14278}" ShortID="853037312">
+											<PropertyList>
+												<Property Name="ActionType" Type="int16" Value="1"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Piment_Cogne_Player" ID="{4C9FCF44-55E1-4646-8FF4-135FF1EEAA9D}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 							</ChildrenList>
 						</Folder>
 						<Event Name="Ennemy_Pop" ID="{AB7E9B7C-0B6A-4651-860B-A56B3292A3A3}">
