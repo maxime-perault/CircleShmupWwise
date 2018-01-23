@@ -48,25 +48,6 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<Sound Name="aTable" ID="{2DD04D8F-4CA2-4BF0-839B-7F42A6F5ED3E}" ShortID="201199238">
-							<ReferenceList>
-								<Reference Name="Conversion">
-									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
-								</Reference>
-								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
-								</Reference>
-							</ReferenceList>
-							<ChildrenList>
-								<AudioFileSource Name="Shmupv2-atable" ID="{6042C801-81C9-435D-80E8-D771AA4876AB}" ShortID="678648291">
-									<Language>SFX</Language>
-									<AudioFile>Shmupv2-atable.wav</AudioFile>
-								</AudioFileSource>
-							</ChildrenList>
-							<ActiveSourceList>
-								<ActiveSource Name="Shmupv2-atable" ID="{6042C801-81C9-435D-80E8-D771AA4876AB}" Platform="Linked"/>
-							</ActiveSourceList>
-						</Sound>
 						<Folder Name="Petit_Beurre" ID="{431EC690-070D-474F-BFA8-6D6A6C57656F}" ShortID="47731203">
 							<ChildrenList>
 								<Sound Name="Beurre_Move" ID="{87EA1F6C-080D-49B2-8FCC-F89F88A6EFCC}" ShortID="809563421">
@@ -836,6 +817,84 @@
 										</Sound>
 									</ChildrenList>
 								</Folder>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Others" ID="{05B78C3F-23F0-407C-A191-48BF10158B8E}" ShortID="662850489">
+							<ChildrenList>
+								<Sound Name="aTable" ID="{2DD04D8F-4CA2-4BF0-839B-7F42A6F5ED3E}" ShortID="201199238">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Shmupv2-atable" ID="{6042C801-81C9-435D-80E8-D771AA4876AB}" ShortID="678648291">
+											<Language>SFX</Language>
+											<AudioFile>Shmupv2-atable.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Shmupv2-atable" ID="{6042C801-81C9-435D-80E8-D771AA4876AB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" ShortID="43507670">
+									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+										<Property Name="Pitch" Type="int32">
+											<RTPCList>
+												<RTPC Name="" ID="{C259CD6B-66AB-49DC-A34B-C562E378A7EF}" ShortID="808215503">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="Ball_Distance" ID="{9F8DD7DD-B91E-446D-B681-9CC0C0E838AD}" WorkUnitID="{BD1B3C21-0013-423E-B3D9-94D432D5F7F0}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{E98CDF55-83B9-4580-81D2-86EB143EF2CC}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="65537"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-375</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>0</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-8</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{723B64E3-0E9F-401B-AC22-7361837117AA}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6F94EAA9-4877-497D-86E4-9102BB699B60}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Friture" ID="{2F5FBA65-8E42-4947-8723-4AABDE36035B}" ShortID="331415265">
+											<Language>SFX</Language>
+											<AudioFile>Friture.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Friture" ID="{2F5FBA65-8E42-4947-8723-4AABDE36035B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>

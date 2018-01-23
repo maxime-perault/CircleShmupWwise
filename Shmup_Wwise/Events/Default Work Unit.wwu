@@ -3,20 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="aTable_Play" ID="{DE529285-926E-4F11-AEF6-D9DAE419DB01}">
-					<ChildrenList>
-						<Action Name="" ID="{76FB9C9B-C127-4B8B-B267-2BA9EB40AE18}" ShortID="636580866">
-							<PropertyList>
-								<Property Name="ActionType" Type="int16" Value="1"/>
-							</PropertyList>
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="aTable" ID="{2DD04D8F-4CA2-4BF0-839B-7F42A6F5ED3E}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Folder Name="Music" ID="{018CCEC4-6864-4565-A37F-B92FA4D93DFE}" ShortID="331451176">
 					<ChildrenList>
 						<Event Name="Music_Stop" ID="{CDB0E6A6-B2A5-4564-9617-676B3F7409F2}">
@@ -379,6 +365,38 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Main_Menu_UI_Back" ID="{3D00EDFC-B60B-480B-B2CD-97542E0C452B}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Other" ID="{92442370-7D61-419A-9132-EF140ABD01C1}" ShortID="810047735">
+					<ChildrenList>
+						<Event Name="aTable_Play" ID="{DE529285-926E-4F11-AEF6-D9DAE419DB01}">
+							<ChildrenList>
+								<Action Name="" ID="{76FB9C9B-C127-4B8B-B267-2BA9EB40AE18}" ShortID="636580866">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="aTable" ID="{2DD04D8F-4CA2-4BF0-839B-7F42A6F5ED3E}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Friture" ID="{79363110-6B51-4163-B256-C50DBC69154A}">
+							<ChildrenList>
+								<Action Name="" ID="{8DC5C316-E5B8-45A3-B233-A476684624EF}" ShortID="906784881">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

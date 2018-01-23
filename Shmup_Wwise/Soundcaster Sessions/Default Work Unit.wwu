@@ -26,6 +26,10 @@
 							<Position X="2" Y="0"/>
 						</Module>
 						<Module>
+							<ObjectRef Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
 							<ObjectRef Name="Main_Menu_UI_Error" ID="{4E500B12-B287-4806-949D-CFB81FE6FEBF}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
 							<Position X="3" Y="0"/>
 						</Module>
@@ -38,6 +42,10 @@
 						<RTPCValue>
 							<GameParameterRef Name="SFX_Volume" ID="{1890AB2A-3514-430B-BEFF-D8EA5B35F6C6}"/>
 							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Ball_Distance" ID="{9F8DD7DD-B91E-446D-B681-9CC0C0E838AD}"/>
+							<Value>0</Value>
 						</RTPCValue>
 						<RTPCValue>
 							<GameParameterRef Name="SS_Air_Month" ID="{09E2B445-C4A3-447F-B3CA-818A1D925EF7}"/>

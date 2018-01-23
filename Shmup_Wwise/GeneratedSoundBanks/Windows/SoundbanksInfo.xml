@@ -21,7 +21,7 @@
 			<ShortName>Shmup_SoundBank</ShortName>
 			<Path>Shmup_SoundBank.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\aTable_Play"/>
+				<Event Id="1306613731" Name="aTable_Play" ObjectPath="\Events\Default Work Unit\Other\aTable_Play"/>
 				<Event Id="1259523794" Name="Beurre_Hit" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Hit"/>
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
@@ -29,6 +29,7 @@
 				<Event Id="3732690165" Name="Brochette_Hit_Invulnerable" ObjectPath="\Events\Default Work Unit\Ennemies\Brochette\Brochette_Hit_Invulnerable"/>
 				<Event Id="1450580127" Name="Brochette_Tomato_Destroy" ObjectPath="\Events\Default Work Unit\Ennemies\Brochette\Brochette_Tomato_Destroy"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
+				<Event Id="3584993428" Name="Friture" ObjectPath="\Events\Default Work Unit\Other\Friture"/>
 				<Event Id="15365369" Name="Main_Menu_UI_Back" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Back"/>
 				<Event Id="877765698" Name="Main_Menu_UI_Error" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Error"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>
@@ -83,6 +84,10 @@
 				<File Id="293664093" Language="SFX">
 					<ShortName>Shmupv2_1.wav</ShortName>
 					<Path>SFX\Shmupv2_1_F17FB28C.wem</Path>
+				</File>
+				<File Id="331415265" Language="SFX">
+					<ShortName>Friture.wav</ShortName>
+					<Path>SFX\Friture_F17FB28C.wem</Path>
 				</File>
 				<File Id="351504492" Language="SFX">
 					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
