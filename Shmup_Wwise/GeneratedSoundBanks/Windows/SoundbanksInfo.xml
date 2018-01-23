@@ -24,6 +24,7 @@
 				<Event Id="363471131" Name="A_Table_1" ObjectPath="\Events\Default Work Unit\Other\A_Table_1"/>
 				<Event Id="363471128" Name="A_Table_2" ObjectPath="\Events\Default Work Unit\Other\A_Table_2"/>
 				<Event Id="363471129" Name="A_Table_3" ObjectPath="\Events\Default Work Unit\Other\A_Table_3"/>
+				<Event Id="1566481283" Name="Beurre_Death" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Death"/>
 				<Event Id="1259523794" Name="Beurre_Hit" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Hit"/>
 				<Event Id="1219808192" Name="Beurre_Move" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Move"/>
 				<Event Id="3447192571" Name="Beurre_Stop" ObjectPath="\Events\Default Work Unit\Petit_Beurre\Beurre_Stop"/>
@@ -123,6 +124,10 @@
 				<File Id="425211512" Language="SFX">
 					<ShortName>End_Victory.wav</ShortName>
 					<Path>SFX\End_Victory_1C9C67B2.wem</Path>
+				</File>
+				<File Id="449901230" Language="SFX">
+					<ShortName>Petit_Beurre_Death.wav</ShortName>
+					<Path>SFX\Petit_Beurre_Death_1C9C67B2.wem</Path>
 				</File>
 				<File Id="524348654" Language="SFX">
 					<ShortName>Mais_Shot_Prep.wav</ShortName>

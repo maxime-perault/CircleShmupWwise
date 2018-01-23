@@ -15,6 +15,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	1316671051	End_Fail			\Default Work Unit\Other\End_Fail	
 	1392079844	Brochette_Death			\Default Work Unit\Ennemies\Brochette\Brochette_Death	
 	1450580127	Brochette_Tomato_Destroy			\Default Work Unit\Ennemies\Brochette\Brochette_Tomato_Destroy	
+	1566481283	Beurre_Death			\Default Work Unit\Petit_Beurre\Beurre_Death	
 	1649919439	Piment_Prep_Play			\Default Work Unit\Ennemies\Piment\Piment_Prep_Play	
 	2013246097	Music_Menu_Play			\Default Work Unit\Music\Music_Menu_Play	
 	2560791400	Mais_Move_Down			\Default Work Unit\Ennemies\Mais\Mais_Move_Down	
@@ -66,6 +67,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	351504492	Main_Menu_UI_Error	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Negative_BC1512CB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Error		60480
 	396360447	Main_Menu_UI_Back	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Main_Menu_UI_Back_4CB36812.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\UI\Main_Menu_UI_Back		25312
 	425211512	End_Victory	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\End_Victory_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Others\End_Victory		682048
+	449901230	Beurre_Death	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Petit_Beurre_Death_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Petit_Beurre\Beurre_Death		143424
 	524348654	Mais_Shot_Prep	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Mais_Shot_Prep_2C239F43.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Mais_Shot_Prep		59740
 	648817926	Mais_Shot_Fire	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Mais_Shot_Fire_9178A2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Mais\Mais_Main\Mais_Shot_Fire		95512
 	658795816	Brochette_Death	D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\.cache\Windows\SFX\Brochette_Death_00DA7168.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main_SFX\Ennemies\Brochette\Brochette_Death		82724

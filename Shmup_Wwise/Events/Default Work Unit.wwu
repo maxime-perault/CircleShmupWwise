@@ -109,6 +109,20 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Beurre_Death" ID="{B384B53B-C106-4C4C-9CB7-D15C8E30F1FC}">
+							<ChildrenList>
+								<Action Name="" ID="{C2B087FD-00F6-4F23-8522-F0D98D582D03}" ShortID="17058996">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Beurre_Death" ID="{5165C6C1-E690-406C-8424-E032715F1FA7}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Ennemies" ID="{DEFBF487-837E-47D6-8374-36DDDF09884B}" ShortID="697918618">
