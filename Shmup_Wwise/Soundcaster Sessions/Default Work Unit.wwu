@@ -10,28 +10,124 @@
 							<Position X="0" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Music" ID="{8F3EE129-A638-48C4-9F8B-B04F68B84909}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
-							<Position X="0" Y="1"/>
+							<ObjectRef Name="Main_Menu_UI_Validate" ID="{B5A96082-34AC-407F-A2ED-7C54BFD25E91}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Main_Menu_UI_Error" ID="{A4FF67C5-DFD9-4750-ADE7-96415C6F629C}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Main_Menu_UI_Back" ID="{A7AE1CC3-B6E3-47F3-814C-435D1A923B84}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="4"/>
 						</Module>
 						<Module>
 							<ObjectRef Name="Main_Menu_UI_Play" ID="{83EA33E9-F433-4998-9573-D549C57C14BA}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Beurre_Stop" ID="{EA270E39-D162-4EC8-B9A0-E7DA441C963E}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="7"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Beurre_Move" ID="{AFC5FECA-C04A-4D09-B867-D510D8CFCF9A}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="0" Y="8"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Play" ID="{AECEA21B-34AE-47C3-AAC3-1D31A308DC8E}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="1" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Main_Menu_UI_Back" ID="{3D00EDFC-B60B-480B-B2CD-97542E0C452B}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
-							<Position X="1" Y="1"/>
+							<ObjectRef Name="Beurre_Death" ID="{B384B53B-C106-4C4C-9CB7-D15C8E30F1FC}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="1" Y="7"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Main_Menu_UI_Validate" ID="{B5A96082-34AC-407F-A2ED-7C54BFD25E91}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<ObjectRef Name="Beurre_Hit" ID="{DE11E392-8D24-4857-B086-78A9A5B44747}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="1" Y="8"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Brochette_Hit_Invulnerable" ID="{2A9E46CD-A603-4513-8EDF-C5421C8B40B0}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="2" Y="0"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+							<ObjectRef Name="Brochette_Tomato_Destroy" ID="{375485F9-CFD3-4130-A16D-79F161D696E5}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="2" Y="1"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Main_Menu_UI_Error" ID="{4E500B12-B287-4806-949D-CFB81FE6FEBF}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+							<ObjectRef Name="Piment_Cogne" ID="{1034A214-E2DE-448F-BB16-8FF4129E2A86}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="2" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Piment_Prep_Play" ID="{16FE29F0-1DF0-41AB-B6DF-538D6CE8A8B2}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="2" Y="6"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Brochette_Death" ID="{CD8554A4-971D-4047-8375-E829989265F6}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Piment_Charge" ID="{8363E337-8507-40D5-9C72-C1C2558A5F66}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="3" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Piment_Cogne_Player" ID="{7EF43C3B-8122-4164-B2C3-C9F137C7942F}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="3" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Piment_Prep_Stop" ID="{E272CF51-9E41-4AF3-BAA6-616737D368E0}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="3" Y="6"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Hit" ID="{2151AAAD-2F8F-4848-94C8-E4BE2C354091}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Move_Down" ID="{0436091C-D9A8-461C-A729-F6F8AE89D80E}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Shot_Fire" ID="{339AD609-780D-460D-B27B-3278D6F8973A}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stage_Cleared" ID="{E6811A4A-9164-434F-A4FD-42A3B67E5ED7}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="A_Table_2" ID="{78F921FB-57DE-4DBB-B4C5-54C39CEC83F9}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="End_Fail" ID="{5A725192-4DC3-4004-B71D-BEEE29CB0F24}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="6"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Friture" ID="{79363110-6B51-4163-B256-C50DBC69154A}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="5" Y="7"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Death" ID="{9C7D65FC-6DDE-4AA8-AF6E-9107C86B7A36}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Move_Up" ID="{05A265D5-0C0D-47F4-A439-3589134A7360}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Mais_Shot_Prep" ID="{A797D081-E4D0-48F5-BE49-F9977A82496D}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="A_Table_1" ID="{1CBBDEDC-DBDA-4EAF-A1FB-6ECA84D020B6}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="A_Table_3" ID="{2E3A6BD6-B38E-4AA4-B045-7008C4BFDFCF}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="5"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="End_Victory" ID="{E0F6F45A-AF1F-4020-89AB-D34495402E61}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="6"/>
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">

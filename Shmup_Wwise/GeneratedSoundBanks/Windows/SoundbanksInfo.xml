@@ -103,7 +103,7 @@
 				</File>
 				<File Id="305806161" Language="SFX">
 					<ShortName>Mais_Hit.wav</ShortName>
-					<Path>SFX\Mais_Hit_12404EA6.wem</Path>
+					<Path>SFX\Mais_Hit_02F793AC.wem</Path>
 				</File>
 				<File Id="331415265" Language="SFX">
 					<ShortName>Friture.wav</ShortName>
@@ -111,7 +111,7 @@
 				</File>
 				<File Id="343836097" Language="SFX">
 					<ShortName>Mais_Death.wav</ShortName>
-					<Path>SFX\Mais_Death_3902A395.wem</Path>
+					<Path>SFX\Mais_Death_ECD74F5B.wem</Path>
 				</File>
 				<File Id="351504492" Language="SFX">
 					<ShortName>Main_Menu_UI_Negative.wav</ShortName>
@@ -131,11 +131,11 @@
 				</File>
 				<File Id="524348654" Language="SFX">
 					<ShortName>Mais_Shot_Prep.wav</ShortName>
-					<Path>SFX\Mais_Shot_Prep_2C239F43.wem</Path>
+					<Path>SFX\Mais_Shot_Prep_B60D87FD.wem</Path>
 				</File>
 				<File Id="648817926" Language="SFX">
 					<ShortName>Mais_Shot_Fire.wav</ShortName>
-					<Path>SFX\Mais_Shot_Fire_9178A2B7.wem</Path>
+					<Path>SFX\Mais_Shot_Fire_BDA6FC72.wem</Path>
 				</File>
 				<File Id="658795816" Language="SFX">
 					<ShortName>Brochette_Death.wav</ShortName>
@@ -175,7 +175,7 @@
 				</File>
 				<File Id="947057396" Language="SFX">
 					<ShortName>Stage_Cleared.wav</ShortName>
-					<Path>SFX\Stage_Cleared_692BD58C.wem</Path>
+					<Path>SFX\Stage_Cleared_DD6B4ECD.wem</Path>
 				</File>
 				<File Id="967738362" Language="SFX">
 					<ShortName>Ennemy_Pop_1.wav</ShortName>
