@@ -776,7 +776,7 @@
 																		<PropertyList>
 																			<Property Name="Enabled" Type="bool" Value="True"/>
 																			<Property Name="Max" Type="Real64" Value="100"/>
-																			<Property Name="Min" Type="Real64" Value="-100"/>
+																			<Property Name="Min" Type="Real64" Value="-200"/>
 																		</PropertyList>
 																	</Modifier>
 																</ModifierInfo>
