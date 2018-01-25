@@ -9,6 +9,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	363471131	A_Table_1			\Default Work Unit\Other\A_Table_1	
 	877765698	Main_Menu_UI_Error			\Default Work Unit\UI\Main_Menu_UI_Error	
 	1164865332	Mais_Death			\Default Work Unit\Ennemies\Mais\Mais_Death	
+	1198778259	Friture_Stop			\Default Work Unit\Other\Friture_Stop	
 	1219808192	Beurre_Move			\Default Work Unit\Petit_Beurre\Beurre_Move	
 	1259523794	Beurre_Hit			\Default Work Unit\Petit_Beurre\Beurre_Hit	
 	1271300845	Mais_Shot_Fire			\Default Work Unit\Ennemies\Mais\Mais_Shot_Fire	

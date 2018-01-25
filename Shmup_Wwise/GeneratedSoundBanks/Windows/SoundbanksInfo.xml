@@ -35,6 +35,7 @@
 				<Event Id="2617652611" Name="End_Victory" ObjectPath="\Events\Default Work Unit\Other\End_Victory"/>
 				<Event Id="3400481729" Name="Ennemy_Pop" ObjectPath="\Events\Default Work Unit\Ennemies\Ennemy_Pop"/>
 				<Event Id="3584993428" Name="Friture" ObjectPath="\Events\Default Work Unit\Other\Friture"/>
+				<Event Id="1198778259" Name="Friture_Stop" ObjectPath="\Events\Default Work Unit\Other\Friture_Stop"/>
 				<Event Id="15365369" Name="Main_Menu_UI_Back" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Back"/>
 				<Event Id="877765698" Name="Main_Menu_UI_Error" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Error"/>
 				<Event Id="329483606" Name="Main_Menu_UI_Play" ObjectPath="\Events\Default Work Unit\UI\Main_Menu_UI_Play"/>

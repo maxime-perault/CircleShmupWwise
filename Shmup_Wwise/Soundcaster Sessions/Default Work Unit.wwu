@@ -129,6 +129,10 @@
 							<ObjectRef Name="End_Victory" ID="{E0F6F45A-AF1F-4020-89AB-D34495402E61}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
 							<Position X="6" Y="6"/>
 						</Module>
+						<Module>
+							<ObjectRef Name="Friture_Stop" ID="{55F9B789-6D7F-4565-901C-D32E1DCFF8A0}" WorkUnitID="{B29443EC-A86D-4F2A-B551-D913A31F46C3}"/>
+							<Position X="6" Y="7"/>
+						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>

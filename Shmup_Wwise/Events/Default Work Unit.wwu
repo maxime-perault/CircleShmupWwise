@@ -514,6 +514,21 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Friture_Stop" ID="{55F9B789-6D7F-4565-901C-D32E1DCFF8A0}">
+							<ChildrenList>
+								<Action Name="" ID="{0D09BEBA-5216-4BD6-9081-5B810B978A27}" ShortID="992674106">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+										<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" WorkUnitID="{5D8CF216-5C66-46E0-B2FB-73369D2B64B5}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
