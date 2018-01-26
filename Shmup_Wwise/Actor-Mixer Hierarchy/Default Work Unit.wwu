@@ -725,14 +725,26 @@
 												</Sound>
 												<Sound Name="Mais_Shot_Fire" ID="{EF5ED77D-1187-4569-B9AD-46CF68F11883}" ShortID="70489237">
 													<PropertyList>
+														<Property Name="Lowpass" Type="int16">
+															<ModifierList>
+																<ModifierInfo>
+																	<Modifier Name="" ID="{B2A9061B-60DC-4084-A22A-41ADD786E351}">
+																		<PropertyList>
+																			<Property Name="Enabled" Type="bool" Value="True"/>
+																			<Property Name="Max" Type="Real64" Value="30"/>
+																		</PropertyList>
+																	</Modifier>
+																</ModifierInfo>
+															</ModifierList>
+														</Property>
 														<Property Name="Pitch" Type="int32">
 															<ModifierList>
 																<ModifierInfo>
 																	<Modifier Name="" ID="{B6BCDE1D-3086-4717-B47E-3A8038723AA8}">
 																		<PropertyList>
 																			<Property Name="Enabled" Type="bool" Value="True"/>
-																			<Property Name="Max" Type="Real64" Value="100"/>
-																			<Property Name="Min" Type="Real64" Value="-100"/>
+																			<Property Name="Max" Type="Real64" Value="300"/>
+																			<Property Name="Min" Type="Real64" Value="-400"/>
 																		</PropertyList>
 																	</Modifier>
 																</ModifierInfo>
@@ -769,6 +781,17 @@
 												</Sound>
 												<Sound Name="Mais_Shot_Prep" ID="{711C1CBD-3012-4A42-BB20-A14816D27A07}" ShortID="230622092">
 													<PropertyList>
+														<Property Name="Lowpass" Type="int16">
+															<ModifierList>
+																<ModifierInfo>
+																	<Modifier Name="" ID="{6EC9CB3B-D5B8-49B5-9C4A-865B96E83736}">
+																		<PropertyList>
+																			<Property Name="Max" Type="Real64" Value="30"/>
+																		</PropertyList>
+																	</Modifier>
+																</ModifierInfo>
+															</ModifierList>
+														</Property>
 														<Property Name="Pitch" Type="int32">
 															<ModifierList>
 																<ModifierInfo>
@@ -776,7 +799,7 @@
 																		<PropertyList>
 																			<Property Name="Enabled" Type="bool" Value="True"/>
 																			<Property Name="Max" Type="Real64" Value="100"/>
-																			<Property Name="Min" Type="Real64" Value="-200"/>
+																			<Property Name="Min" Type="Real64" Value="-300"/>
 																		</PropertyList>
 																	</Modifier>
 																</ModifierInfo>
