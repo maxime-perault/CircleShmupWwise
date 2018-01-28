@@ -1052,6 +1052,12 @@
 								<Sound Name="Friture" ID="{46A51954-BD18-4DEA-B2D5-A87C3CD65304}" ShortID="43507670">
 									<PropertyList>
 										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+										<Property Name="MaxReachedBehavior" Type="int16" Value="1"/>
+										<Property Name="MaxSoundPerInstance" Type="int16">
+											<ValueList>
+												<Value>1</Value>
+											</ValueList>
+										</Property>
 										<Property Name="Pitch" Type="int32">
 											<RTPCList>
 												<RTPC Name="" ID="{C259CD6B-66AB-49DC-A34B-C562E378A7EF}" ShortID="808215503">
@@ -1079,6 +1085,11 @@
 													</Curve>
 												</RTPC>
 											</RTPCList>
+										</Property>
+										<Property Name="UseMaxSoundPerInstance" Type="bool">
+											<ValueList>
+												<Value>True</Value>
+											</ValueList>
 										</Property>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>

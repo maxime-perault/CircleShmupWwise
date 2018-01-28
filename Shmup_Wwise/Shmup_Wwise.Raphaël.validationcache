@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3576793951" DateHigh="30643860"/>
+	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2661763558" DateHigh="30644146"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="3441117372" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="3441548543" DateHigh="30631843"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Attenuations\Default Work Unit.wwu" DateLow="968668656" DateHigh="30640280"/>
@@ -32,7 +32,7 @@
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Presets\Default Work Unit.wwu" DateLow="968307648" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Queries\Default Work Unit.wwu" DateLow="968077446" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Queries\Factory Queries.wwu" DateLow="3440876747" DateHigh="30631843"/>
-	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.Raphaël.wsettings" DateLow="1389086394" DateHigh="30643939"/>
+	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.Raphaël.wsettings" DateLow="3966690342" DateHigh="30644147"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Shmup_Wwise.wproj" DateLow="967610020" DateHigh="30640280"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="2305848951" DateHigh="30642513"/>
 	<ValidationCacheItem File="D:\ENJMIN 2017-2018-Lourd\SHMUP_WWISE\Shmup_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3061578078" DateHigh="30643674"/>
