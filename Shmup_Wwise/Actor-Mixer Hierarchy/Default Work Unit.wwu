@@ -355,6 +355,19 @@
 									<ChildrenList>
 										<Sound Name="Piment_Charge" ID="{06CD6DF0-F294-483E-A29F-155B31E2220A}" ShortID="747147112">
 											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{D4EC11C2-1C73-4359-BCA4-3A8C99D386A9}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="100"/>
+																	<Property Name="Min" Type="Real64" Value="-100"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value>-3</Value>
@@ -381,6 +394,19 @@
 										</Sound>
 										<Sound Name="Piment_Cogne" ID="{AD4E4471-ACBA-4021-873A-32A19A8ABDD9}" ShortID="505440713">
 											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{16868707-56C1-4803-A197-C13A676BB1D1}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="150"/>
+																	<Property Name="Min" Type="Real64" Value="-150"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value>-2</Value>
@@ -407,6 +433,19 @@
 										</Sound>
 										<Sound Name="Piment_Prep" ID="{5475DB6C-2403-42BA-B653-30F4DAF7D90D}" ShortID="142460393">
 											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{246EE372-D506-4C6B-AF07-C69BA93C352B}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="150"/>
+																	<Property Name="Min" Type="Real64" Value="-150"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value>1</Value>
@@ -433,6 +472,19 @@
 										</Sound>
 										<Sound Name="Piment_Cogne_Player" ID="{4C9FCF44-55E1-4646-8FF4-135FF1EEAA9D}" ShortID="993335502">
 											<PropertyList>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{0FDF7497-D8E8-48EF-BBA7-D163FB261162}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="150"/>
+																	<Property Name="Min" Type="Real64" Value="-150"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value>-2</Value>
@@ -1247,6 +1299,16 @@
 								</Sound>
 								<Sound Name="End_Fail" ID="{930AA8E7-A748-4491-9A8D-D07BF291DAE9}" ShortID="856820464">
 									<PropertyList>
+										<Property Name="MaxSoundPerInstance" Type="int16">
+											<ValueList>
+												<Value>1</Value>
+											</ValueList>
+										</Property>
+										<Property Name="UseMaxSoundPerInstance" Type="bool">
+											<ValueList>
+												<Value>True</Value>
+											</ValueList>
+										</Property>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
 												<Value>7</Value>
