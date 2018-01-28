@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="80">
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3099912690" DateHigh="30643111"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="2253987777" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="2254035476" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Attenuations\Default Work Unit.wwu" DateLow="2254040505" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="2254045530" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="2254050913" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="2254061645" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2254061645" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2254066670" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Default Work Unit.wwu" DateLow="2254073245" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="2254083285" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="2254083285" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory Convolution Reverb Effects.wwu" DateLow="2254106281" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory Effects.wwu" DateLow="2254116328" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="2254131367" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="2254141931" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="2254146986" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="2254151982" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="2254151982" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="2254167196" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="2254172053" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="2254131367" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Events\Default Work Unit.wwu" DateLow="3099917956" DateHigh="30643111"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="2758650842" DateHigh="30642503"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="2254187078" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2255055049" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2236485183" DateHigh="30642514"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="2255065085" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Modulators\Default Work Unit.wwu" DateLow="2255070110" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Presets\Default Work Unit.wwu" DateLow="2260279456" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Queries\Default Work Unit.wwu" DateLow="2260287475" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Queries\Factory Queries.wwu" DateLow="2260287475" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Shmup_Wwise.maxim.wsettings" DateLow="1246744901" DateHigh="30642546"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Shmup_Wwise.wproj" DateLow="3092976395" DateHigh="30642258"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="2236495387" DateHigh="30642514"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3101984667" DateHigh="30643111"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\States\Default Work Unit.wwu" DateLow="2260322983" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Switches\Default Work Unit.wwu" DateLow="2260333023" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Triggers\Default Work Unit.wwu" DateLow="2260338103" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="2260343168" DateHigh="30642256"/>
+	<ValidationCacheItem File="D:\GIT-PROJECT\CircleShmupWwise\Shmup_Wwise\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="2260348062" DateHigh="30642256"/>
+</ValidationCache>
