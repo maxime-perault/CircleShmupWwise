@@ -4,6 +4,7 @@
 		<WorkUnit Name="Default Work Unit" ID="{6F94EAA9-4877-497D-86E4-9102BB699B60}" PersistMode="Standalone">
 			<ChildrenList>
 				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList/>
 					<ChildrenList>
 						<AuxBus Name="Reverb" ID="{DC7C72B0-8B79-4532-A6F6-46D5648DF906}">
 							<ReferenceList>
